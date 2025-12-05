@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shruthideeshna@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/chowduri-nayani-deeshna-shruthi](www.linkedin.com/in/chowduri-nayani-deeshna-shruthi)
+- 📄 Know about my experiences [www.linkedin.com/in/chowduri-nayani-deeshna-shruthi](https://www.linkedin.com/in/chowduri-nayani-deeshna-shruthi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

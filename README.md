@@ -32,13 +32,17 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeshna15&" alt="deeshna15" /></p>
 
-## 🏆 LeetCode Badge
+## 🏆 LeetCode Badges
 
 <p align="center">
   <a href="https://leetcode.com/u/deeshna15/">
-    <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="180"/>
+    <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="150"/>
+  </a>
+  <a href="https://leetcode.com/u/deeshna15/">
+    <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="150"/>
   </a>
 </p>
+
  <h3 align="left">🧠 LeetCode Stats:</h3>
 
  <p align="center">

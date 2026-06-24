@@ -31,11 +31,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deeshna15&show_icons=true&locale=en" alt="deeshna15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeshna15&" alt="deeshna15" /></p>
-<!-- <h3 align="left">🧠 LeetCode Stats:</h3>
 
-<!-- <p align="center">
+## 🏆 LeetCode Badge
+
+<p align="center">
+  <a href="https://leetcode.com/u/deeshna15/">
+    <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="180"/>
+  </a>
+</p>
+ <h3 align="left">🧠 LeetCode Stats:</h3>
+
+ <p align="center">
   <a href="https://leetcode.com/desh15/">
     <img src="https://leetcard.jacoblin.cool/desh15?theme=dark&font=baloo&ext=contest" />
   </a>
-</p>  -->
+</p>  
 

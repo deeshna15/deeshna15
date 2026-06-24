@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flask,System design, Large Language Models,react**
 
-- 👯 I’m currently working on [MelodyMind – Emotion-aware AI Music Player](https://github.com/MelodyMindG527/Melodymind-Final.git)
+- 👯 I’m currently working on [NutriMind AI -- Multi-Agent Health Digital Twin \& Nutrition Coach](https://github.com/deeshna15/NutriMind-AI----Multi-Agent-Health-Digital-Twin-Nutrition-Coach.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/deeshna15](https://github.com/deeshna15)
 

@@ -42,12 +42,3 @@
     <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="150"/>
   </a>
 </p>
-
- <h3 align="left">🧠 LeetCode Stats:</h3>
-
- <p align="center">
-  <a href="https://leetcode.com/desh15/">
-    <img src="https://leetcard.jacoblin.cool/desh15?theme=dark&font=baloo&ext=contest" />
-  </a>
-</p>  
-
